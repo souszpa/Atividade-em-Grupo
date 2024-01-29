@@ -218,4 +218,7 @@ Lucas é um gestor de projetos experiente, desempenhando um papel crucial na orq
 ### Samuel: https://github.com/souszpa
 Samuel é um especialista no front-end, elevando projetos à excelência visual e interativa. Sua paixão pela estética se reflete na criação de interfaces envolventes e intuitivas. Especializado em HTML, CSS e Bootstrap, Samuel é reconhecido por sua habilidade em transformar conceitos abstratos em experiências visuais cativantes. Sua criatividade e destreza técnica fazem dele uma influência marcante na comunidade de desenvolvimento, liderando o caminho para inovações visuais e experiências de usuário memoráveis.
 
+### Yuri: https://github.com/yuriram
+Yuri é especialista em desenvolvimento web, especializado em PHP e contribui para o desenvolvimento em frameworks, além de liderar projetos de inovação. Yuri demonstra habilidades avançadas em desenvolvimento web, incluindo conhecimento sólido de tecnologias front-end e back-end, arquitetura de aplicações web, segurança web, entre outros aspectos. Ele pode ser especializado na criação de aplicações web robustas, escaláveis e seguras.
+
 Esses "autores" foram imaginados como uma equipe diversificada, combinando habilidades complementares para criar um projeto de biografia que destaca suas habilidades individuais e coletivas.
