@@ -212,10 +212,10 @@ Como uma criação fictícia para ilustrar o desenvolvimento de um projeto, os "
 ### David: https://github.com/davipitbull
 David é um programador full-stack com uma paixão pelo back-end. Sua perícia reside principalmente na construção de sistemas robustos e eficientes. Especializado em PHP e gerenciamento de bancos de dados, David é reconhecido por sua capacidade de resolver desafios complexos e pela criação de estruturas sólidas. Seu compromisso com a qualidade e a eficiência o coloca no papel vital de garantir a estabilidade e a segurança do projeto.
 
-### Lucas: https://github.com/souszpa
+### Lucas: https://github.com/LucasSemeao
 Lucas é um gestor de projetos experiente, desempenhando um papel crucial na orquestração e execução bem-sucedida de empreendimentos tecnológicos. Sua abordagem estratégica e visão holística garantem que os projetos sejam concluídos dentro do prazo, orçamento e com os mais altos padrões de qualidade. Lucas é um líder eficaz, navegando habilmente entre desafios e promovendo um ambiente de trabalho colaborativo e eficiente.
 
-### Samuel: https://github.com/LucasSemeao
+### Samuel: https://github.com/souszpa
 Samuel é um especialista no front-end, elevando projetos à excelência visual e interativa. Sua paixão pela estética se reflete na criação de interfaces envolventes e intuitivas. Especializado em HTML, CSS e Bootstrap, Samuel é reconhecido por sua habilidade em transformar conceitos abstratos em experiências visuais cativantes. Sua criatividade e destreza técnica fazem dele uma influência marcante na comunidade de desenvolvimento, liderando o caminho para inovações visuais e experiências de usuário memoráveis.
 
 Esses "autores" foram imaginados como uma equipe diversificada, combinando habilidades complementares para criar um projeto de biografia que destaca suas habilidades individuais e coletivas.
